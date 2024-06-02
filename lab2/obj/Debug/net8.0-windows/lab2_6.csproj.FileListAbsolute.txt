@@ -1,0 +1,51 @@
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.exe
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.deps.json
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.runtimeconfig.json
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.pdb
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\bin\Debug\net8.0-windows\Prism.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\bin\Debug\net8.0-windows\Prism.Wpf.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.csproj.AssemblyReference.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\App.g.cs
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6_MarkupCompile.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6_MarkupCompile.lref
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.g.resources
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.AssemblyInfoInputs.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.AssemblyInfo.cs
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.csproj.CoreCompileInputs.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.sourcelink.json
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.csproj.Up2Date
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\refint\lab2_6.dll
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.pdb
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.genruntimeconfig.cache
+D:\Documents\VSU\6 semestr\IT\IT.Labs\IT.Labs\lab2_6\lab2_6\obj\Debug\net8.0-windows\ref\lab2_6.dll
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.exe
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.deps.json
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.runtimeconfig.json
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.dll
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\bin\Debug\net8.0-windows\lab2_6.pdb
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\bin\Debug\net8.0-windows\Prism.dll
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\bin\Debug\net8.0-windows\Prism.Wpf.dll
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.csproj.AssemblyReference.cache
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6_MarkupCompile.cache
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6_MarkupCompile.lref
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.g.resources
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.AssemblyInfoInputs.cache
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.AssemblyInfo.cs
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.csproj.CoreCompileInputs.cache
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.csproj.Up2Date
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.dll
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\refint\lab2_6.dll
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.pdb
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\lab2_6.genruntimeconfig.cache
+C:\Users\ozorn\Прочее\Downloads\IT.Labs-main\IT.Labs-main\lab2_6\lab2_6\obj\Debug\net8.0-windows\ref\lab2_6.dll

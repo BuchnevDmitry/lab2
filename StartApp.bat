@@ -1,0 +1,1 @@
+start ./lab2_6/bin/Release/net8.0-windows/lab2_6.exe
